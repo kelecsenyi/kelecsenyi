@@ -1,0 +1,3 @@
+- Hi, I’m @kelecsenyi
+- I’m interested in IT, especially in websites frontend development.
+- I’m currently learning wordpress and javascript as well. 
